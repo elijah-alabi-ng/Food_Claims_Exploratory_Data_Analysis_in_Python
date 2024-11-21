@@ -29,4 +29,4 @@ The legal department is dealing with:
 - Solutions
 - Recommendation
 
-Check out the detailed analysis [here](https://github.com/elijah-alabi-ng/Food_Claims_Exporatory_Data_Analysis_in_Python/blob/main/workspace/food_claims.ipynb)
+Check out the detailed analysis [here](https://github.com/elijah-alabi-ng/Food_Claims_Exploratory_Data_Analysis_in_Python/blob/main/workspace/food_claims.ipynb)
