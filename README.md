@@ -30,4 +30,4 @@ The legal department is dealing with:
 - Is there any relationship between Locations and the time it takes to close claims?
 - How does the time to close claims looks like?
 
-Check out the detailed analysis [here](https://github.com/elijah-alabi-ng/Food_Claim_Exploratory_Data_Analysis_in_Python/blob/main/workspace/food_claims.ipynb)
+Check out the detailed analysis [here](https://github.com/elijah-alabi-ng/Food_Claims_Exporatory_Data_Analysis_in_Python/blob/main/workspace/food_claims.ipynb)
