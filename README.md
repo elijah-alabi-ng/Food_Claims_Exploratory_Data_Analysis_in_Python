@@ -1,6 +1,6 @@
 # Food Claims Exporatory Data Analysis in Python
 
-![food_claim](food_claims.png)
+![food_claim](/workspace/food_claims.png)
 
 # Table of Contents:
 
